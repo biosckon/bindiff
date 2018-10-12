@@ -1,1 +1,1 @@
-Report offset of the first binary difference.
+Report offset of the first different byte.
